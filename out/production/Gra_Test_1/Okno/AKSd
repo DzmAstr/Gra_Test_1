@@ -1,0 +1,31 @@
+class AKSINJA{
+
+    int rost;
+    int vozrast;
+    int zwet_wolos;
+
+    AKSINJA(){
+
+            rost = 167;
+            vozrast = 10;
+
+
+    };
+
+
+}
+
+
+
+//osnownaja programma
+void main (){
+
+
+
+        Aksinja = new AKSINJA();
+        Aksinja2 = new AKSINJA();
+        Aksinja3 = new AKSINJA();
+
+
+
+}

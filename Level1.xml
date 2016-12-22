@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<config>
+    <kulkax>50</kulkax>
+    <kulkay>50</kulkay>
+    <kulkar>70</kulkar>
+
+    <koniecx>100</koniecx>
+    <koniecy>750</koniecy>
+    <koniecwidth>150</koniecwidth>
+
+    <prz1x>50</prz1x>
+    <prz1y>250</prz1y>
+    <prz1width>300</prz1width>
+    <prz1height>100</prz1height>
+
+    <prz2x>550</prz2x>
+    <prz2y>250</prz2y>
+    <prz2width>800</prz2width>
+    <prz2height>100</prz2height>
+
+    <prz3x>750</prz3x>
+    <prz3y>400</prz3y>
+    <prz3width>100</prz3width>
+    <prz3height>100</prz3height>
+
+    <prz4x>50</prz4x>
+    <prz4y>500</prz4y>
+    <prz4width>500</prz4width>
+    <prz4height>100</prz4height>
+
+    <prz5x>500</prz5x>
+    <prz5y>800</prz5y>
+    <prz5width>100</prz5width>
+    <prz5height>200</prz5height>
+
+
+</config>
