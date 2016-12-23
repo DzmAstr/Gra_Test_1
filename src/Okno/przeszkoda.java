@@ -40,6 +40,8 @@ public class przeszkoda extends JComponent {
 
         g.setColor(new Color(37, 40, 170));
 
+        //test czy dziala nadal
+
         g.fillRect(x*widthParScreen/1000,y*heightParScreen/1000,width*widthParScreen/1000,height*heightParScreen/1000);
 
 
