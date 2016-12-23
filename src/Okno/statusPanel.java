@@ -2,7 +2,6 @@ package Okno;
 
 import javax.swing.*;
 import java.awt.*;
-import java.net.URL;
 
 
 public class statusPanel extends JPanel{

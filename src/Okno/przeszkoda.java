@@ -37,12 +37,11 @@ public class przeszkoda extends JComponent {
 
         int widthParScreen= this.getParent().getWidth();
         int heightParScreen= this.getParent().getHeight();
-        //x=x/getWidth();
 
-        g.setColor(new Color(120, 23, 21));
+        g.setColor(new Color(37, 40, 170));
 
         g.fillRect(x*widthParScreen/1000,y*heightParScreen/1000,width*widthParScreen/1000,height*heightParScreen/1000);
-        //System.out.println(size);
+
 
     }
 /*
